@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tableHead
+{
+    background:#0000CC;
+    font-family:"新宋体";
+    font-size:36px;
+    font-weight:bold;
+}
+
+.tableContent
+{
+    font-family:"新宋体";
+    font-size:18px;
+    font-weight:bold;
+}
+
+.btn1
+{
+    background:#a0bdff;
+    font-family:"新宋体";
+    font-size:20px;
+    font-weight:bold;
+    border: #006600 solid 2px;
+}
+
+.index
+{
+    font-size:22px;
+    font-weight:bold;
+    text-align:center;
+}
